@@ -1,0 +1,19 @@
+body {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 2 rem;
+  color: white;
+}
+textarea {
+  margin: 10px;
+}
+canvas {
+  margin: 10px
+}
+a {
+  color: white;
+}
