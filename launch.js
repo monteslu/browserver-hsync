@@ -1,7 +1,7 @@
 let contentType = 'text/html';
 let content = `<html>
 <body>
-  <h1>Hello Halfstack!</h1>
+  <h1>Hello from a web page!</h1>
   <div>
     This is from a web page?
   </div>
